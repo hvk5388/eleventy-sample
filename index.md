@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hvk5388/eleventy-sample/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +36,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+=======
+Hello World! Here are my blogposts. You can also see them at [dev.to](https://dev.to/kerndesigns).
+
+- [Create a dockerfile](dockerfile)
+- [How to Create a GitHub Repository](githubrepo)
+- [Learn How APIs Work](apis)
+- [How to Install Docker on WIndows OS](docker)
+>>>>>>> 3273bf84c0ea6e87d19cd5a2dba4b48fd3ea9663
